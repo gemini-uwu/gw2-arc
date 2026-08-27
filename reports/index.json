@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260826-194217-km1j",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-26T23:42:17.000Z",
+      "dateEnd": "2026-08-27T00:49:51.243Z",
+      "dateLabel": "26/08/2026, 19:42:17 - 26/08/2026, 20:49:51",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260826-194217-km1j",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260825-204041-exq0",
       "title": "Grimaldi",
       "commanders": [
