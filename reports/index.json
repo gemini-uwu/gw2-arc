@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260830-211301-s1f6",
+      "title": "Eryn Tyrell",
+      "commanders": [
+        "Eryn Tyrell"
+      ],
+      "guild": {
+        "id": "1EC5501E-196D-E411-A32A-E4115BDFA895",
+        "name": "Baewatch",
+        "tag": "Bae"
+      },
+      "dateStart": "2026-08-31T01:13:01.000Z",
+      "dateEnd": "2026-08-31T02:12:04.783Z",
+      "dateLabel": "30/08/2026, 21:13:01 - 30/08/2026, 22:12:04",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260830-211301-s1f6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260826-194217-km1j",
       "title": "Grimaldi",
       "commanders": [
