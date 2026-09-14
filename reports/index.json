@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260913-212249-7tfy",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-09-14T01:22:49.000Z",
+      "dateEnd": "2026-09-14T02:10:49.491Z",
+      "dateLabel": "13/09/2026, 21:22:49 - 13/09/2026, 22:10:49",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260913-212249-7tfy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260912-211505-51u8",
       "title": "Majestic Dreamspear",
       "commanders": [
