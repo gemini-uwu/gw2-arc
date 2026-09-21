@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260920-200531-fvao",
+      "title": "Emperor Chopsticks",
+      "commanders": [
+        "Emperor Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Pugs Meet World Vs World",
+        "tag": "PuGS"
+      },
+      "dateStart": "2026-09-21T00:05:31.000Z",
+      "dateEnd": "2026-09-21T00:50:29.894Z",
+      "dateLabel": "20/09/2026, 20:05:31 - 20/09/2026, 20:50:29",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260920-200531-fvao",
+      "summary": {
+        "borderlandsPct": 0.8648648648648649,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260913-212249-7tfy",
       "title": "Get Mesmorized",
       "commanders": [
