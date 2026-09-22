@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260921-210810-g3nx",
+      "title": "Bitter Lemon Haem",
+      "commanders": [
+        "Bitter Lemon Haem"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-22T01:08:10.000Z",
+      "dateEnd": "2026-09-22T02:29:04.147Z",
+      "dateLabel": "21/09/2026, 21:08:10 - 21/09/2026, 22:29:04",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260921-210810-g3nx",
+      "summary": {
+        "borderlandsPct": 0.4375,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260920-200531-fvao",
       "title": "Emperor Chopsticks",
       "commanders": [
