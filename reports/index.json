@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260922-193347-7id5",
+      "title": "Emperor Chopsticks",
+      "commanders": [
+        "Emperor Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Pugs Meet World Vs World",
+        "tag": "PuGS"
+      },
+      "dateStart": "2026-09-22T23:33:47.000Z",
+      "dateEnd": "2026-09-23T01:12:11.780Z",
+      "dateLabel": "22/09/2026, 19:33:47 - 22/09/2026, 21:12:11",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260922-193347-7id5",
+      "summary": {
+        "borderlandsPct": 0.6086956521739131,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260922-193347-7t9x",
       "title": "Emperor Chopsticks",
       "commanders": [
