@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260924-214328-tw51",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-09-25T01:43:28.000Z",
+      "dateEnd": "2026-09-25T02:05:12.357Z",
+      "dateLabel": "24/09/2026, 21:43:28 - 24/09/2026, 22:05:12",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260924-214328-tw51",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260923-210529-q3oh",
       "title": "Eryn Tyrell",
       "commanders": [
