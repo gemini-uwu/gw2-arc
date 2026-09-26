@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-140052-zydq",
+      "title": "Wahoop",
+      "commanders": [
+        "Wahoop"
+      ],
+      "guild": {
+        "id": "5D7F8C82-E09D-4788-82F9-41506AA6A4DD",
+        "name": "Wait What How",
+        "tag": "Hek"
+      },
+      "dateStart": "2026-09-26T18:00:52.000Z",
+      "dateEnd": "2026-09-26T18:49:03.579Z",
+      "dateLabel": "26/09/2026, 14:00:52 - 26/09/2026, 14:49:03",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260926-140052-zydq",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260925-220910-zd04",
       "title": "Mesmer Delos Bravos",
       "commanders": [
