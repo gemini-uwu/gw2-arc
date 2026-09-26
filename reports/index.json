@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-220910-zd04",
+      "title": "Mesmer Delos Bravos",
+      "commanders": [
+        "Mesmer Delos Bravos"
+      ],
+      "guild": {
+        "id": "B9A7B078-07A8-E311-A8E7-AC162DAE5A05",
+        "name": "Bomb Ön Me",
+        "tag": "BOMB"
+      },
+      "dateStart": "2026-09-26T02:09:10.000Z",
+      "dateEnd": "2026-09-26T03:14:16.704Z",
+      "dateLabel": "25/09/2026, 22:09:10 - 25/09/2026, 23:14:16",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260925-220910-zd04",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260925-194044-a9lx",
       "title": "Genessarr, Wahoop",
       "commanders": [
