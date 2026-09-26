@@ -5,6 +5,35 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-194044-a9lx",
+      "title": "Genessarr, Wahoop",
+      "commanders": [
+        "Genessarr",
+        "Wahoop"
+      ],
+      "guild": {
+        "id": "84CC867E-AF23-F011-81AC-95DFE50946EB",
+        "name": "Elites En Locura",
+        "tag": "ELO"
+      },
+      "dateStart": "2026-09-25T23:40:44.000Z",
+      "dateEnd": "2026-09-26T00:54:33.049Z",
+      "dateLabel": "25/09/2026, 19:40:44 - 25/09/2026, 20:54:33",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260925-194044-a9lx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260924-214328-tw51",
       "title": "Get Mesmorized",
       "commanders": [
