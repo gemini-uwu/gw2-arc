@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-141023-2ae9",
+      "title": "Wahoop",
+      "commanders": [
+        "Wahoop"
+      ],
+      "guild": {
+        "id": "5D7F8C82-E09D-4788-82F9-41506AA6A4DD",
+        "name": "Wait What How",
+        "tag": "Hek"
+      },
+      "dateStart": "2026-09-27T18:10:23.000Z",
+      "dateEnd": "2026-09-27T19:19:27.903Z",
+      "dateLabel": "27/09/2026, 14:10:23 - 27/09/2026, 15:19:27",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260927-141023-2ae9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260926-150548-k0vs",
       "title": "Wahoop",
       "commanders": [
