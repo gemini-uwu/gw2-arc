@@ -5,6 +5,35 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-195630-qetj",
+      "title": "Emperor Chopsticks, Emperor Fork",
+      "commanders": [
+        "Emperor Chopsticks",
+        "Emperor Fork"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Pugs Meet World Vs World",
+        "tag": "PuGS"
+      },
+      "dateStart": "2026-09-27T23:56:30.000Z",
+      "dateEnd": "2026-09-28T00:51:08.544Z",
+      "dateLabel": "27/09/2026, 19:56:30 - 27/09/2026, 20:51:08",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20260927-195630-qetj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260927-141023-2ae9",
       "title": "Wahoop",
       "commanders": [
