@@ -1,9 +1,57 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": true,
-  "glassmorphic": true,
-  "axiDesign": false,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.12"
+  },
   "entries": [
+    {
+      "id": "20261107-193925-wzkn",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "46E4739F-9EA7-EE11-81AB-F50023EE1BF3",
+        "name": "Perpetual Complainers",
+        "tag": "MOAN"
+      },
+      "dateStart": "2026-11-08T00:39:25.000Z",
+      "dateEnd": "2026-11-08T01:16:04.053Z",
+      "dateLabel": "07/11/2026, 19:39:25 - 07/11/2026, 20:16:04",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20261107-193925-wzkn",
+      "publishedBy": "gemini-uwu",
+      "summary": {
+        "borderlandsPct": 0.7777777777777778,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 34
+      }
+    },
     {
       "id": "20260927-195630-qetj",
       "title": "Emperor Chopsticks, Emperor Fork",
