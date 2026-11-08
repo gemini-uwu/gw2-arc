@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261107-213600-2jso",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-11-08T02:36:00.000Z",
+      "dateEnd": "2026-11-08T03:27:27.003Z",
+      "dateLabel": "07/11/2026, 21:36:00 - 07/11/2026, 22:27:27",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20261107-213600-2jso",
+      "publishedBy": "gemini-uwu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20261107-193925-wzkn",
       "title": "Grimaldi",
       "commanders": [
