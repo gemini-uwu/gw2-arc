@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261108-200309-psa6",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-11-09T01:03:09.000Z",
+      "dateEnd": "2026-11-09T02:03:16.487Z",
+      "dateLabel": "08/11/2026, 20:03:09 - 08/11/2026, 21:03:16",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20261108-200309-psa6",
+      "publishedBy": "gemini-uwu",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261107-213600-2jso",
       "title": "Majestic Dreamspear",
       "commanders": [
