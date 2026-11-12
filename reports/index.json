@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261111-203300-4ey8",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-11-12T01:33:00.000Z",
+      "dateEnd": "2026-11-12T02:33:26.655Z",
+      "dateLabel": "11/11/2026, 20:33:00 - 11/11/2026, 21:33:26",
+      "url": "https://gemini-uwu.github.io/gw2-arc/?report=20261111-203300-4ey8",
+      "publishedBy": "gemini-uwu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261108-200309-psa6",
       "title": "Grimaldi",
       "commanders": [
